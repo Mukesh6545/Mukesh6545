@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Viswanadha Mukesh 👋
 
-<!--
-**Mukesh6545/Mukesh6545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Cybersecurity) Student at Amrita Vishwa Vidyapeetham
 
-Here are some ideas to get you started:
+🔐 Interested in Cybersecurity and Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning and working with C, C++, Python, Linux and Computer Networks
+
+## Areas of Interest
+
+- Cybersecurity
+- Network Security
+- Web Security
+- Linux Security
+
+## Connect with Me
+
+- LinkedIn: [Viswanadha Mukesh](https://www.linkedin.com/in/viswanadha-mukesh-692770376/)
